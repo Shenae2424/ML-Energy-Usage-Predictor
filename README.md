@@ -7,6 +7,7 @@ When I first decide to create this project, I wanted to start applying Python to
 ## Materials Used: 
 - Programming with Mosh - Python Full Course for Beginners https://www.youtube.com/watch?v=_uQrJ0TkZlc
 - Kite - How to use Matplotlib in 4 minutes https://www.youtube.com/watch?v=D4VlmL3G4_o
+- Data Set - https://www.kaggle.com/datasets/imtkaggleteam/household-power-consumption
 
 ## 🎯Aim
 - Be able to apply basic Python for data analysis 
