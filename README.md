@@ -11,8 +11,17 @@ When I first decided to start this project, I wanted to start applying Python to
 
 ## 🎯Aim
 - Be able to apply basic Python for data analysis 
-- Understand energy usage trends 
-- Train a simple model to predict future usage 
+- Understand energy usage trends
+- Understand time series data in the context of energy consumption.
+- Develop data cleaning and preprocessing skills (handling missing values, parsing dates).
+- Explore and visualize energy usage trends over time.
+- Engineer features that capture temporal patterns (hour, day, month).
+- Build and evaluate a simple predictive model for energy consumption.
+- Interpret model results and understand their limitations.
+
+## Uses
+- Energy Providers can use predictive models to forecast electricity demand, allowing better power grid management and reducing outages.
+- Smart Home Systems can optimize appliance usage to save energy and reduce costs based on predicted power consumption patterns.
 
 ## ⚙️Tools and Libraries 
 - Jupyter 
