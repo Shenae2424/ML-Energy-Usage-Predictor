@@ -1,4 +1,4 @@
-# Smart-Energy-Usage-Predictor
+# EcoPredict:-Household-Energy-Usage-Forecasting-with-ML
 Predicts household electricity usage based on historical data using Python and Machine Learning 
 
 ## My motivation
