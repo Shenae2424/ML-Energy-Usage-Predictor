@@ -10,6 +10,8 @@ When I first decided to start this project, I wanted to start applying Python to
 - Kite - How to use Matplotlib in 4 minutes https://www.youtube.com/watch?v=D4VlmL3G4_o
 - Data Set - https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
+- https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
+
 ## 🎯Aim
 - Be able to apply basic Python for data analysis 
 - Understand energy usage trends
