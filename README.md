@@ -18,8 +18,8 @@ When I first decided to start this project, I wanted to start applying Python to
 - Understand how daily trends change depending of the time of year. Summer trends are very different than winter trends.
 
 ## Example Uses
-
 Load forecasting involves predicting future electricity demand using historical consumption data. Accurate forecasts are essential for maintaining grid stability and ensuring that generation matches demand.
+
 #### Real-World Impact:
 - Grid reliability: Prevents blackouts by ensuring enough electricity is generated during peak periods.
 - Cost savings: Allows operators to schedule generation more efficiently and avoid costly reserve usage.
@@ -31,8 +31,9 @@ Load forecasting involves predicting future electricity demand using historical 
 - plotly
 - Pandas 
 
-
-
+## Pogress 
+- See full task list in [TODO.md](TODO.md)
+  
 ## 📊 Model and Plots
 ### Raw Data Histogram
 <img width="1077" height="360" alt="newplot" src="https://github.com/user-attachments/assets/8ded613f-6ab2-4aed-b887-e4d6e1032d8d" />
