@@ -1,30 +1,30 @@
 ## To do: 
-### Import Data ✅ - completed 
+### 1. Import Data ✅ - completed 
 - find and save the data set
 - load data set using pandas 
 - display first 5 roiws 
 - check for any missing values 
 - learn and understand the meaning of columns 
 
-### Clean Data of Duplicates etc. and generate different kinds of plots to perform analyis ✅ - completed
+### 2. Clean Data of Duplicates etc. and generate different kinds of plots to perform analyis ✅ - completed
 - Handle missing or invalid values (if any)
 - Remove any duplicates
 
-#### Histograms ✅ - completed
+#### 2.1 Histograms ✅ - completed
 - Find interquartile range and bounds to cut of anomalies
   
-#### Line Graph ✅- completed
+#### 2.2 Line Graph ✅- completed
 - Do for raw data
 - Add interative dashboard
   
-### Split data into training/training sets
+### 3. Split data into training/training sets
 
-### creater a model 
+### 4. Create a Model 
 - plot graphs using matplotlib to understand trends (power/time, voltage/time)
 - use Scitkit-learn to create a linear regression model
 - predict power usage on test data 
 - evaluate the models performance 
 
-### train the model 
+### 5. Train the Model 
 
-### make predictions 
+### 6. Make Predictions 
