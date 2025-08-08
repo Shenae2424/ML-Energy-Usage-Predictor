@@ -7,15 +7,15 @@ When I first decided to start this project, I wanted to start applying Python to
 ## Materials Used: 
 - Programming with Mosh - Python Full Course for Beginners https://www.youtube.com/watch?v=_uQrJ0TkZlc
 - https://www.youtube.com/watch?v=bMTl6ZDUMqM
-- Kite - How to use Matplotlib in 4 minutes https://www.youtube.com/watch?v=D4VlmL3G4_o
 - Data Set - https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
 
 ## 🎯Aim
 - Be able to apply basic Python for data analysis 
 - To produce charts that show distribution and trends
 - perform energy usage analysis
-- remove anomalies
-- predict future outcomes using a test set
+- Split the last year into a test set- can you build a model to predict energy consumption?
+- Find trends in energy consumption around hours of the day, holidays, or long term trends?
+- Understand how daily trends change depending of the time of year. Summer trends are very different than winter trends.
 
 ## Example Uses
 
@@ -26,44 +26,20 @@ Load forecasting involves predicting future electricity demand using historical 
 - Renewable integration: Helps balance intermittent sources like solar and wind with predicted demand.
 
 ## ⚙️Tools and Libraries 
-- Jupyter 
+- Jupyter Notebook
 - Python
 - plotly
 - Pandas 
-- Scikit-learn
 
-## To do: 
-### Import Data 
-- find and save the data set
-- load data set using pandas 
-- display first 5 roiws 
-- check for any missing values 
-- learn and understand the meaning of columns 
 
-### Clean Data of Duplicates etc. and generate different kinds of plots to perform analyis 
-- Handle missing or invalid values (if any)
-- Remove any duplicates
 
-#### Histograms
-- Find interquartile range and bounds to cut of anomalies
-  
-#### Line Graph 
-- Add interative feature
-- 
-### Split data into training/training sets
-
-### creater a model 
-- plot graphs using matplotlib to understand trends (power/time, voltage/time)
-- use Scitkit-learn to create a linear regression model
-- predict power usage on test data 
-- evaluate the models performance 
-
-### train the model 
-### make predictions 
-
-## 📊 Model 
+## 📊 Model and Plots
 ### Raw Data Histogram
 <img width="1077" height="360" alt="newplot" src="https://github.com/user-attachments/assets/8ded613f-6ab2-4aed-b887-e4d6e1032d8d" />
+
+### Line Graph with interactive Dashboard. Allows user to see consumption during certain dates 
+<img width="1092" height="360" alt="newplot (2)" src="https://github.com/user-attachments/assets/1dd99697-c8fa-4e06-a1f2-b2e680d11a17" />
+
 
 ### Clean Data Histogram
 <img width="1092" height="360" alt="newplot (1)" src="https://github.com/user-attachments/assets/511e2e73-5342-4ae5-9341-e4df93c6aa3d" />
@@ -71,7 +47,8 @@ Load forecasting involves predicting future electricity demand using historical 
 
 
 
-
 ## 📈 Results 
+- This data came clean. As a result when testing for anomalies and unknowns none were present so no cleaning was done fo this data set
 
+  
 ## 🧠Future Ideas 
