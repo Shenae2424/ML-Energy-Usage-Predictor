@@ -14,8 +14,10 @@ When I first decided to start this project, I wanted to start applying Python to
 
 ## 🎯Aim
 - Be able to apply basic Python for data analysis 
-- Forecast future hourly wage consumption in the next 24 hours using time series ML methods
-- 
+- To produce charts that show distribution and trends
+- perform energy usage analysis
+- remove anomalies
+- predict future outcomes using a test set
 
 ## Example Uses
 
@@ -28,7 +30,7 @@ Load forecasting involves predicting future electricity demand using historical 
 ## ⚙️Tools and Libraries 
 - Jupyter 
 - Python
-- Matplotlib
+- plotly
 - Pandas 
 - Scikit-learn
 
@@ -57,6 +59,15 @@ Load forecasting involves predicting future electricity demand using historical 
 ### make predictions 
 
 ## 📊 Model 
+### Raw Data Histogram
+<img width="1077" height="360" alt="newplot" src="https://github.com/user-attachments/assets/8ded613f-6ab2-4aed-b887-e4d6e1032d8d" />
+
+### Clean Data Histogram
+<img width="1092" height="360" alt="newplot (1)" src="https://github.com/user-attachments/assets/511e2e73-5342-4ae5-9341-e4df93c6aa3d" />
+
+
+
+
 
 ## 📈 Results 
 
