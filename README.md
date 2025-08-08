@@ -14,13 +14,8 @@ When I first decided to start this project, I wanted to start applying Python to
 
 ## 🎯Aim
 - Be able to apply basic Python for data analysis 
-- Understand energy usage trends
-- Understand time series data in the context of energy consumption.
-- Develop data cleaning and preprocessing skills (handling missing values, parsing dates).
-- Explore and visualize energy usage trends over time.
-- Engineer features that capture temporal patterns (hour, day, month).
-- Build and evaluate a simple predictive model for energy consumption.
-- Interpret model results and understand their limitations.
+- Forecast future hourly wage consumption in the next 24 hours using time series ML methods
+- 
 
 ## Example Uses
 
