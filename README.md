@@ -31,5 +31,5 @@ Load forecasting involves predicting future electricity demand using historical 
 - plotly
 - Pandas 
 
-## Pogress 
+## Progress 
 - See full task list in [TODO.md](TODO.md)
