@@ -8,9 +8,7 @@ When I first decided to start this project, I wanted to start applying Python to
 - Programming with Mosh - Python Full Course for Beginners https://www.youtube.com/watch?v=_uQrJ0TkZlc
 - https://www.youtube.com/watch?v=bMTl6ZDUMqM
 - Kite - How to use Matplotlib in 4 minutes https://www.youtube.com/watch?v=D4VlmL3G4_o
-- Data Set - https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
-
-- https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
+- Data Set - https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
 
 ## 🎯Aim
 - Be able to apply basic Python for data analysis 
@@ -42,11 +40,16 @@ Load forecasting involves predicting future electricity demand using historical 
 - check for any missing values 
 - learn and understand the meaning of columns 
 
-### Clean Data of Duplicates etc. 
-- Handle missing or invalid values (dreop or fill them in)
-- convert date and time columns into simple datetime format
-- select feaqtures to use for prediction (time, voltgae, previopus power used)
- 
+### Clean Data of Duplicates etc. and generate different kinds of plots to perform analyis 
+- Handle missing or invalid values (if any)
+- Remove any duplicates
+
+#### Histograms
+- Find interquartile range and bounds to cut of anomalies
+  
+#### Line Graph 
+- Add interative feature
+- 
 ### Split data into training/training sets
 
 ### creater a model 
