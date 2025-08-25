@@ -19,7 +19,7 @@
   ##### 2.2.1 Anomalies ✅- completed
   - identify anomalies on raw data set
   - identify them on plot
-  - do an analysis on it 
+  - do an analysis on it
   
 ### 3. Split data into training/training sets
 
