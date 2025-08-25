@@ -16,7 +16,7 @@
 #### 2.2 Line Graph ✅- completed
 - Do for raw data
 - Add interative dashboard
-  ##### 2.2.1 Anomalies 
+  ##### 2.2.1 Anomalies ✅- completed
   - identify anomalies on raw data set
   - identify them on plot
   - do an analysis on it 
