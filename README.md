@@ -33,3 +33,6 @@ Load forecasting involves predicting future electricity demand using historical 
 
 ## Progress 
 - See full task list in [TODO.md](TODO.md)
+
+## Code 
+- To see my Jupyter Notebook head to [notebooks](notebooks/)
