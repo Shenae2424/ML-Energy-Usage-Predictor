@@ -23,12 +23,11 @@
   
 ### 3. Split data into training/training sets ✅ - completed 28/08/25
 
-### 4. Create a Model 
+### 4. Create a Model ✅ - completed 29/08/25
 - plot graphs using matplotlib to understand trends (power/time, voltage/time)
 - use Scitkit-learn to create a linear regression model
-- predict power usage on test data 
 - evaluate the models performance 
 
-### 5. Train the Model 
+### 5. Train the Model ✅ - completed 29/08/25
 
-### 6. Make Predictions 
+### 6. Make Predictions ✅ - completed 29/08/25
