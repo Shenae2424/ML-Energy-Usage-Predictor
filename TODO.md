@@ -21,7 +21,7 @@
   - identify them on plot
   - do an analysis on it
   
-### 3. Split data into training/training sets
+### 3. Split data into training/training sets ✅ - completed 28/08/25
 
 ### 4. Create a Model 
 - plot graphs using matplotlib to understand trends (power/time, voltage/time)
