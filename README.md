@@ -15,7 +15,6 @@ When I first decided to start this project, I wanted to start applying Python to
 - perform energy usage analysis
 - **Split the last year into a test set- can you build a model to predict energy consumption?**
 - **Find trends in energy consumption around hours of the day, holidays, or long term trends?**
-- Understand how daily trends change depending of the time of year. **Summer trends are very different than winter trends.**
 
 ## Example Uses
 Load forecasting involves predicting future electricity demand using historical consumption data. Accurate forecasts are essential for maintaining grid stability and ensuring that generation matches demand.
