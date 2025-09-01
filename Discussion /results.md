@@ -39,8 +39,29 @@ And I potenitally need to split my model into training and test sets differently
   **LR R^2 value** - 0.9609149070390977
 
 # Analysis 
-The model achieved an R² score of approximately 0.9 on the test set, indicating strong predictive performance. The predicted values closely follow the actual consumption pattern. However, further validation is needed to ensure there is no data leakage or overfitting. Future improvements could include using time-series models (e.g., ARIMA, LSTM) and more robust feature engineering. Furthermore, deeper understanding of python packages would allow improvements too.
+
+### Achievements 
+- I applied Python libraries such as Pandas and Matplotlib to clean and explore the dataset. This included handling missing values and generating summary statistics to understand the data distribution.
+- I created visualizations to show energy consumption trends over time. This included identifying weekly and daily patterns, as well as seasonal variations. The actual vs predicted chart demonstrates how the model captures these patterns.
+- Produced an interactive toggle parameter to view different sections of the data (weekly, monthly, yearly)
+
+### Insights 
+  - The analysis revealed consistent peaks during weekday mornings and evenings, suggesting higher demand during working hours. Holidays showed slightly lower usage, aligning with reduced industrial and commercial activity.
+- I split the last 12 months of data as the test set to evaluate model performance. A regression model was trained on the remaining data and achieved an R² score of approximately 0.9, indicating strong predictive capability. The predicted curve closely follows the actual energy usage pattern.
+
+### Model Peformance 
+- Hourly analysis showed higher consumption during daytime hours, particularly between 6 PM and 9 PM. Holidays exhibited reduced energy usage, while summer months showed slightly higher demand due to cooling needs.
+- The plot you showed (actual vs predicted) is perfect as part of this.
+- The model achieved an R² score of approximately 0.9 on the test set, indicating strong predictive performance. The predicted values closely follow the actual consumption pattern. However, further validation is needed to ensure there is no data leakage or overfitting. Future improvements could include using time-series models (e.g., ARIMA, LSTM) and more robust feature engineering.
+
+### Limitations 
+- Potential of data leakage or overfitting
+- Only beginner knowledge in python and ML
+
+### Improvements
+- Apply more robust feature engineering
+- Include more features such as temperature and holiday periods
+- Try other forms of data analysis such as Neural Networks and Forest something 
 
 # Thoughts and Conclusions
-
 Throughout this project, I was able to showcase the ability to take initiative in learning, technical application of what I have learnt and analysis skills. This was something completely new to me. As I am taking a Machine Learning module in the upcoming semester I hope that I can revisit this project and produce better results and approach it with greater knowledge of the process of data analysis and developing analytical models. Whilst I can say I am very confident in removing anomalies, producing histograms, and even developing an interactie plot to allow analysis of power consumption of different dates, I know my understanding of linear regression and more intricate data analytics can definitely be improved. Going forward I hope to apply what I've learnt now and in the future to other ML projects and hopefully apply it to integrated hardware systems too.
