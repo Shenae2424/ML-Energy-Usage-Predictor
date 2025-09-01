@@ -38,4 +38,9 @@ And I potenitally need to split my model into training and test sets differently
 
   **LR R^2 value** - 0.9609149070390977
 
+# Analysis 
+The model achieved an R² score of approximately 0.9 on the test set, indicating strong predictive performance. The predicted values closely follow the actual consumption pattern. However, further validation is needed to ensure there is no data leakage or overfitting. Future improvements could include using time-series models (e.g., ARIMA, LSTM) and more robust feature engineering. Furthermore, deeper understanding of python packages would allow improvements too.
+
 # Thoughts and Conclusions
+
+Throughout this project, I was able to showcase the ability to take initiative in learning, technical application of what I have learnt and analysis skills. This was something completely new to me. As I am taking a Machine Learning module in the upcoming semester I hope that I can revisit this project and produce better results and approach it with greater knowledge of the process of data analysis and developing analytical models. Whilst I can say I am very confident in removing anomalies, producing histograms, and even developing an interactie plot to allow analysis of power consumption of different dates, I know my understanding of linear regression and more intricate data analytics can definitely be improved. Going forward I hope to apply what I've learnt now and in the future to other ML projects and hopefully apply it to integrated hardware systems too.
